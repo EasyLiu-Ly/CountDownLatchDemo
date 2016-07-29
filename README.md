@@ -1,6 +1,6 @@
 # CountDownLatchDemo
 
-This is a Java project demo about CountDownLatch
+This is a Java project demo about CountDownLatch.
 
 The console output about this demo is:
 
